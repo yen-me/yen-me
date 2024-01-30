@@ -14,7 +14,7 @@
     </a>
 </div>
 
-<h4 align="left"> PROGRAMMING LANGUAGES: </h4>
+<h4 align="left"> 〰 PROGRAMMING LANGUAGES </h4>
 <p align="left">
     <a><img src="https://img.shields.io/badge/.-Python-9e4c62.svg" alt="Python"></a> 
     <a><img src="https://img.shields.io/badge/.-Javascript-9e4c62.svg" alt="Javascript"></a>
@@ -26,14 +26,14 @@
    
 </p>
 
-<h4 align="left"> FRAMEWORKS: </h4>
+<h4 align="left"> 〰 FRAMEWORKS </h4>
 <p align="left">
     <a><img src="https://img.shields.io/badge/.-Flask-15795a.svg" alt="Flask"></a> 
     <a><img src="https://img.shields.io/badge/.-Django-44947b.svg" alt="Django"></a>
     <a><img src="https://img.shields.io/badge/.-Node JS-73af9c.svg" alt="Node JS"></a> 
 </p>
 
-<h4 align="left"> TECHNICAL TOOLS: </h4>
+<h4 align="left"> 〰 TECHNICAL TOOLS </h4>
 <p align="left">
     <a><img src="https://img.shields.io/badge/.-Git-fdb863.svg" alt="Git"></a> 
     <a><img src="https://img.shields.io/badge/.-Postman-fdb863.svg" alt="Postman"></a>
@@ -46,7 +46,7 @@
     <a><img src="https://img.shields.io/badge/.-MS Project-fff1e0.svg" alt="MS Project"></a> 
 </p>
 
-<h4 align="left"> DESIGNER TOOLS: </h4>
+<h4 align="left"> 〰 DESIGNER TOOLS </h4>
 <p align="left">
     <a><img src="https://img.shields.io/badge/.-Adobe XD-31778c.svg" alt="Adobe XD"></a> 
     <a><img src="https://img.shields.io/badge/.-Adobe Photoshop-5a92a3.svg" alt="Adobe Photoshop"></a>
@@ -54,23 +54,23 @@
     <a><img src="https://img.shields.io/badge/.-Balsamiq Mockup-adc9d1.svg" alt="Balsamiq Mockup"></a> 
 </p>
 
-<h4 align="left"> OPERATING SYSTEMS: </h4>
+<h4 align="left"> 〰 OPERATING SYSTEMS </h4>
 <p align="left">
     <a><img src="https://img.shields.io/badge/.-Windows-b12498.svg" alt="Windows"></a>
     <a><img src="https://img.shields.io/badge/.-Linux (Debian, Mint)-c150ad.svg" alt="Linux (Debian, Mint)"></a>
     <a><img src="https://img.shields.io/badge/.-Mac OS-d07cc1.svg" alt="Mac OS"></a> 
 </p>
 
-<h4 align="left"> SDLC METHOLOGIES: </h4>
+<h4 align="left"> 〰 SDLC METHOLOGIES </h4>
 <p align="left">
     <a><img src="https://img.shields.io/badge/.-Agile (Scrum)-615245.svg" alt="Agile (Scrum)"></a> 
     <a><img src="https://img.shields.io/badge/.-Waterfall-897d74.svg" alt="Waterfall"></a>
 </p>
 
 <h2 align="center"></h2>
-<h4 align="center">🦋🦋🦋</h4>
+<h4 align="center">🥑</h4>
 <h4 align="center">Make it work, make it right, make it fast – Kent Beck</h4>
-<h4 align="center">🦋🦋🦋</h4>
+<h4 align="center">🥑🥑🥑</h4>
 <h2 align="center"></h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnytran&langs_count=9)
