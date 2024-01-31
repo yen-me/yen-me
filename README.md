@@ -73,7 +73,7 @@
 <h4 align="center">🥑🥑🥑</h4>
 <h2 align="center"></h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnytran&langs_count=9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnytran&langs_count=19)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tnytran&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
