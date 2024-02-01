@@ -1,16 +1,7 @@
 <h1 align="center"> Hi there 👋 I am Yen Tran.</h1>
 <img align="right" src="https://media.licdn.com/dms/image/D5616AQFmf1A52O4B0g/profile-displaybackgroundimage-shrink_350_1400/0/1706583748395?e=1712188800&v=beta&t=Z_lo4ae3j-DMhB48yWZFNsl7HC0wu4nE0MNRro2Q2rc" >
 
-<div align="center">
-    <p>࿏</p>
 
-    <a href="https://www.linkedin.com/in/tnytran/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on Linkedin">
-    </a>
-    <a href="https://drive.google.com/file/d/1d96sP27slcswuRhQnn199krrKCmmoHZr/view" target="_blank">
-        <img src="https://img.shields.io/badge/Resume-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="View my resume">
-    </a>
-</div>
 
 <h4 align="left"> 〰 PROGRAMMING LANGUAGES </h4>
 <p align="left">
