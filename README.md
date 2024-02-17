@@ -3,6 +3,9 @@
 
 <div align="center">
     <p>࿏</p>
+    <a href="https://www.linkedin.com/in/tnytran/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on Linkedin">
+    </a>
 </div>
 
 <h4 align="left"> 〰 PROGRAMMING LANGUAGES </h4>
