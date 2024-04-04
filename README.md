@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 I am Yen Tran.</h1>
-<img align="right" src="https://media.licdn.com/dms/image/D5616AQFmf1A52O4B0g/profile-displaybackgroundimage-shrink_350_1400/0/1706583748395?e=1712188800&v=beta&t=Z_lo4ae3j-DMhB48yWZFNsl7HC0wu4nE0MNRro2Q2rc" >
+<img align="right" src="https://media.licdn.com/dms/image/D5616AQFmf1A52O4B0g/profile-displaybackgroundimage-shrink_350_1400/0/1706583748395?e=1717632000&v=beta&t=ffblQwmFwuPCvP2FxrPiFGpm2vOQeK3agJlQbaQgOmA" >
 
 <div align="center">
     <p>࿏</p>
