@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there 👋 I am Yenna.</h1>
+<h1 align="center"> Hi there 👋 I am Yenna.</h1> 
 <img align="right" src="https://media.licdn.com/dms/image/D5616AQFmf1A52O4B0g/profile-displaybackgroundimage-shrink_350_1400/0/1706583748395?e=1723075200&v=beta&t=Te6HEIW7Vx0n6heVmIA35bJhp-4slpHPiGif40xtpvI" >
 
 <div align="center">
