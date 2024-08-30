@@ -3,7 +3,7 @@
 
 <div align="center">
     <p>࿏</p>
-    <a href="https://www.linkedin.com/in/yenttng/" target="_blank">
+    <a href="https://www.linkedin.com/in/yentrtn/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on Linkedin">
     </a>
     <a href="https://yentran.onrender.com/" target="_blank">
