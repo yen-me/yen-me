@@ -70,6 +70,6 @@
 <h4 align="center">🥑🥑🥑</h4>
 <h2 align="center"></h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yennatran&langs_count=19)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yentrtn&langs_count=19)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yennatran&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yentrtn&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
