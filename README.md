@@ -3,7 +3,7 @@
 
 <div align="center">
     <p>࿏</p>
-    <a href="https://www.linkedin.com/in/yentrtn/" target="_blank">
+    <a href="https://www.linkedin.com/in/yen-me/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on Linkedin">
     </a>
     <a href="https://yentran.onrender.com/" target="_blank">
@@ -70,6 +70,6 @@
 <h4 align="center">🥑🥑🥑</h4>
 <h2 align="center"></h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yentrtn&langs_count=19)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yen-me&langs_count=19)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=yentrtn&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yen-me&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
