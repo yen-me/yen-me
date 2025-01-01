@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 I am Yen.</h1>
-<img align="right" src="https://ibb.co/dMJfpMZ">
+<img align="right" src="https://i.ibb.co/MS5g1Sd/IMG-0617-Copy.png">
 
 <div align="center">
     <p>࿏</p>
